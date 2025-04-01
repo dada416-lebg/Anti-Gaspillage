@@ -11,7 +11,7 @@ Une application web interactive pour sensibiliser au gaspillage alimentaire à t
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/anti-gaspillage.git
+git clone https://github.com/dada416-lebg/Anti-Gaspillage
 cd anti-gaspillage
 ```
 
@@ -40,15 +40,3 @@ L'application sera accessible à l'adresse : http://localhost:3000
 - Tailwind CSS
 - Recharts (pour les graphiques)
 
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité
-3. Commiter vos changements
-4. Pousser vers la branche
-5. Ouvrir une Pull Request
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
